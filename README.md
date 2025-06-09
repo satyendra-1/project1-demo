@@ -1,2 +1,2 @@
 # project1-demo
-my basic first repository that is created 
+my basic first repository that is created  and done.
